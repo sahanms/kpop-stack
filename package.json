@@ -28,9 +28,9 @@
     "/server/build"
   ],
   "dependencies": {
-    "@netlify/remix-adapter": "^2.2.0",
+    "@netlify/remix-adapter": "^2.6.1",
     "@remix-run/node": "^2.3.1",
-    "@remix-run/react": "^2.3.1",
+    "@remix-run/react": "^2.16.4",
     "@supabase/supabase-js": "^2.39.0",
     "@testing-library/cypress": "^10.0.1",
     "cypress": "^13.6.0",
